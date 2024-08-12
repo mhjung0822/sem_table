@@ -14,8 +14,12 @@ PERSONAL:  /Users/~~~/Documents/Stata/ado/personal/
 OLDPLACE:  ~/ado/
 ₩
 
-## 2) personal 폴더(위 환경에서는 /Users/~~~/Documents/Stata/ado/personal/)에 sem_etable.ado, sem_gof_table.ado를 복사, 붙여넣기
-3) Stata 재시작
+## 2) personal 폴더에 sem_etable.ado, sem_gof_table.ado를 복사, 붙여넣기
+
+위 환경에서는 /Users/~~~/Documents/Stata/ado/personal/)
+
+
+## 3) Stata 재시작
 
 # 2. 사용방법
 
@@ -23,7 +27,7 @@ sem 명령어 실행후 sem_etable, sem_gof_table 명령어 실행
 
 # 3. 명령어 설명
 
-3.1. sem_etable
+## 3.1. sem_etable
 
 [syntax]
 sem_etable [, replace table(string)
@@ -38,7 +42,7 @@ table(string) : "string"으로 collection table 명 설정
 sem_etable 실행시 수행한 sem 모형이 재 수행되므로 post-estimation 등이
 적용되지 않을 수 있음.
 
-3.2. sem_gof_table
+## 3.2. sem_gof_table
 
 [syntax]
 sem_gof_table [, replace table(string)
