@@ -16,7 +16,7 @@ OLDPLACE:  ~/ado/
 
 ## 2) personal 폴더에 sem_etable.ado, sem_gof_table.ado를 복사, 붙여넣기
 
-위 환경에서는 /Users/~~~/Documents/Stata/ado/personal/)
+위 환경에서는 "/Users/~~~/Documents/Stata/ado/personal/"
 
 
 ## 3) Stata 재시작
