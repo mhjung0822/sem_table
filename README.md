@@ -5,7 +5,6 @@
 
 ```
 . sysdir
-
    STATA:  /Applications/Stata/
     BASE:  /Applications/Stata/ado/base/
     SITE:  /Applications/Stata/ado/site/
@@ -20,6 +19,8 @@ OLDPLACE:  ~/ado/
 
 
 ## 3) Stata 재시작
+
+stata를 재시작하면 sem_etable, sem_gof_table 명령어가 등록됨.
 
 # 2. 사용방법
 
