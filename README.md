@@ -1,5 +1,5 @@
 
-1. 설치방법
+# 1. 설치방법
 
 1) Stata의 personal 폴더 확인(sysdir)
 
@@ -16,11 +16,11 @@ OLDPLACE:  ~/ado/
 2) personal 폴더(위 환경에서는 /Users/~~~/Documents/Stata/ado/personal/)에 sem_etable.ado, sem_gof_table.ado를 복사, 붙여넣기
 3) Stata 재시작
 
-2. 사용방법
+# 2. 사용방법
 
 sem 명령어 실행후 sem_etable, sem_gof_table 명령어 실행
 
-3. 명령어 설명
+# 3. 명령어 설명
 
 3.1. sem_etable
 
