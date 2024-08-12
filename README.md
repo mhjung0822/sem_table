@@ -51,5 +51,6 @@ sem_etable 실행시 수행한 sem 모형이 재 수행되므로 post-estimation
 sem 명령어 실행후 gof table 생성. 실행시 "gof" collection 생성
 
 ### options
+
 replace : "gof" collection이 있을 경우 replace
 table(string) : "string"으로 collection table 명 설정
