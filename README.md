@@ -54,3 +54,11 @@ sem 명령어 실행후 gof table 생성. 실행시 "gof" collection 생성
 
 replace : "gof" collection이 있을 경우 replace  
 table(string) : "string"으로 collection table 명 설정
+
+# 4. 결과 예시
+₩₩₩
+webuse sem_sm1
+₩₩₩
+
+
+
