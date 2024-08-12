@@ -30,7 +30,7 @@ sem 명령어 실행후 sem_etable, sem_gof_table 명령어 실행
 ## 3.1. sem_etable
 
 ### syntax
-sem_etable [, replace table(string)
+. sem_etable [, replace table(string)
 
 sem 명령어 실행후 etable 생성. 실행시 "table" collection 생성
 
@@ -45,7 +45,7 @@ sem_etable 실행시 수행한 sem 모형이 재 수행되므로 post-estimation
 ## 3.2. sem_gof_table
 
 ### syntax
-sem_gof_table [, replace table(string)
+. sem_gof_table [, replace table(string)
 
 sem 명령어 실행후 gof table 생성. 실행시 "gof" collection 생성
 
