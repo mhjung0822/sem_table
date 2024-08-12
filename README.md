@@ -36,7 +36,7 @@ sem 명령어 실행후 sem_etable, sem_gof_table 명령어 실행
 sem 명령어 실행후 etable 생성. 실행시 "table" collection 생성
 
 ### options
-replace : "table" collection이 있을 경우 replace
+replace : "table" collection이 있을 경우 replace  
 table(string) : "string"으로 collection table 명 설정
 
 ###주의사항
@@ -52,5 +52,5 @@ sem 명령어 실행후 gof table 생성. 실행시 "gof" collection 생성
 
 ### options
 
-replace : "gof" collection이 있을 경우 replace
+replace : "gof" collection이 있을 경우 replace  
 table(string) : "string"으로 collection table 명 설정
