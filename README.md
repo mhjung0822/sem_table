@@ -3,7 +3,7 @@
 
 ## 1) Stata의 personal 폴더 확인(sysdir)
 
-₩
+```
 . sysdir
 
    STATA:  /Applications/Stata/
@@ -12,7 +12,7 @@
     PLUS:  /Users/~~~/Library/Application Support/Stata/ado/plus/
 PERSONAL:  /Users/~~~/Documents/Stata/ado/personal/
 OLDPLACE:  ~/ado/
-₩
+```
 
 ## 2) personal 폴더에 sem_etable.ado, sem_gof_table.ado를 복사, 붙여넣기
 
